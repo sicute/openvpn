@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-KEY_COUNTRY="ID"
-KEY_PROVINCE="DKI"
-KEY_CITY="Jakarta"
-KEY_ORG="Coinone"
-KEY_EMAIL="secure@coinone.co.id"
-KEY_OU="Coinone"
+KEY_COUNTRY="XXX"
+KEY_PROVINCE="XXX"
+KEY_CITY="XXXX"
+KEY_ORG="XXXX"
+KEY_EMAIL="xxxx@xxxx"
+KEY_OU="xxx"
 
-PUBLIC_IP="54.251.128.179"
+PUBLIC_IP="your ip public"
